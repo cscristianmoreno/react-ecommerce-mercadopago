@@ -1,0 +1,12 @@
+.class_product_search {
+    padding: 20px !important;
+    /* outline: none; */
+    /* border-radius: px; */
+    /* border-width: 1px; */
+    /* border-style: solid; */
+    /* border-color: #6d6dee; */
+    /* box-shadow: 0px 0px 10px rgba(255, 165, 0, 30%); */
+    width: 325px !important;
+    transition: 0.25s !important;
+    /* margin-top: 30px; */
+}
